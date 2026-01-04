@@ -10,7 +10,7 @@ The library provides:
 
 Designed for:
 - High-speed filling and dosing machines
-- Transfer star based systems
+- Transfer star/ conveyour based systems
 - Valve-based dosing with linear characteristics
 
 ---
