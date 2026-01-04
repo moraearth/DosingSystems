@@ -25,7 +25,7 @@ Designed for:
 ---
 
 ## Example
-
+```
 import DosingSystems
 import Foundation
 
@@ -85,7 +85,7 @@ print(
 print(String(repeating:"-", count: 40))
 
 
-## Philosophy
+#```# Philosophy
 
 This library intentionally avoids implicit unit conversions and untyped numeric parameters.
 All calculations are expressed in physical terms, mirroring real-world machine behavior.
